@@ -8,8 +8,11 @@
 
 ### Education
 - **Master of Science (M.S.)** - Economics	Oct 2022 - (Ongoing)
+  
     _Friedrich Schiller University, Jena_
-- ''Bachelor of Arts (B.A.)** - Economics	Aug 2018 - Jun 2022
+  
+- **Bachelor of Arts (B.A.)** - Economics	Aug 2018 - Jun 2022
+  
     _Ankara Yildirim Beyazit University, Ankara_
 
 ### Work Experience
